@@ -1,6 +1,7 @@
 # React-Native-
 react native相关的组件分类整理备忘
 react native官方提供了很多组件，但不可能面面俱到，总结常用的第三方组件方便开发。
+
 大而全：
 - NativeBase
 - ant-design-mobile
@@ -28,7 +29,8 @@ react native官方提供了很多组件，但不可能面面俱到，总结常�
 ##### 本地存储类
 - react-native-storage
 - react-native-cookies
-
+- react-native-http-cache
+- react-native-sqlite-storage
 
 ##### 权限类
 - react-native-baidu-map
@@ -38,6 +40,13 @@ react native官方提供了很多组件，但不可能面面俱到，总结常�
 - react-native-maps
 - react-native-video
 - AC-QRCode-RN
+- react-native-animatable
+- react-native-barcodescanner
+- react-native-fs
+- react-native-push-notification 
+- react-native-touch-id
+- react-native-version-number
+- react-native-device-info
 
 ##### 组件类
 - react-native-swiper
@@ -48,6 +57,9 @@ react native官方提供了很多组件，但不可能面面俱到，总结常�
 - react-native-progress
 - react-native-percentage-circle
 - react-native-svg
+- react-native-markdown
+- react-native-animatable
+
 
 ##### 图表类
 - native-echarts
