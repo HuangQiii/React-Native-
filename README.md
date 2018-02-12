@@ -1,4 +1,4 @@
-# React-Native-
+# React-Native-Memo
 react native相关的组件分类整理备忘
 react native官方提供了很多组件，但不可能面面俱到，总结常用的第三方组件方便开发。
 
