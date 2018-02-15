@@ -17,9 +17,13 @@ react native官方提供了很多组件，但不可能面面俱到，总结常�
 
 ##### 图标类
 - react-native-vector-icons
+- react-native-icons
 
 ##### 首屏
 - react-native-splash-screen
+- react-native-app-intro
+- react-native-blur
+- react-native-gesture-password
 
 ##### 助开发类
 - immer
@@ -59,6 +63,8 @@ react native官方提供了很多组件，但不可能面面俱到，总结常�
 - react-native-svg
 - react-native-markdown
 - react-native-animatable
+- react-native-popover
+- react-native-color-picker
 
 
 ##### 图表类
