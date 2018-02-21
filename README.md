@@ -68,3 +68,5 @@ react native官方提供了很多组件，但不可能面面俱到，总结常�
 
 ##### 图表类
 - [native-echarts](https://github.com/somonus/react-native-echarts)，基于echarts的库，虽然网页端可视化图表库百家争鸣，但是手机端好用的确实不多，这个可以自己定制的程度高，其实就是一个webview，基础定制可以参考我的另外项目。
+
+愉快的假期结束了，一周内全部更新完毕
